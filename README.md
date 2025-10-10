@@ -1,1 +1,2 @@
 # Javatraining
+Edit: Check declaration
