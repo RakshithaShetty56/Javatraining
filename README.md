@@ -1,2 +1,3 @@
 # Javatraining
-Edit: Check declaration
+
+update readme test PR
